@@ -5,7 +5,7 @@ id: plotly_graph_lywsd03mmc
 title: OctoPrint-PlotlyGraph-LYWSD03MMC
 description: Plugin to add LYWSD03MMC temperature and humidity sensor data to PlotlyTempGraph
 author: yutaka551
-license: AGPLv3
+license: MIT
 
 date: 2026-02-22
 
